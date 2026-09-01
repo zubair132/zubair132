@@ -16,13 +16,20 @@
 
 ### 🚀 About Me
 
-I'm a **React Native Developer & Mobile App Engineer** with **5+ years of experience** building production-ready iOS and Android applications, SaaS products, and startup MVPs. I specialize in **React Native, TypeScript, API integrations, scalable architecture, and AI-powered features** — helping businesses turn ideas into reliable digital products.
+I'm a **React Native Developer & Mobile App Engineer** with **5+ years of experience** building production-ready iOS and Android applications, SaaS products, and startup MVPs. I've shipped **50+ mobile apps** across industries — from early-stage MVPs to production apps used by real customers — and I'm rated **Top Rated on Upwork with a 100% Job Success Score**.
 
-My core expertise is **React Native and cross-platform mobile development**, with hands-on experience taking products from MVP to production. I work closely with designers, backend engineers, and product teams to turn requirements and Figma designs into scalable, user-friendly experiences.
+My core expertise is **React Native and cross-platform mobile development**, with hands-on experience taking products from Figma or an existing codebase to a stable, live release. Recent work includes leading mobile development for **Floty.ai's fleet management platform** (real-time GPS tracking + AI dispatch system contributing to a documented 25% fuel savings for 500+ companies), along with shipping **Rise**, **Jeyad**, **Daydew**, and **Rivetgun.ai**.
 
-Beyond mobile development, I contribute across the full product stack — frontend, API integration, backend services, third-party integrations, AI features, testing, and deployment — which lets me understand the complete product rather than just one layer.
+I specialize in **React Native, TypeScript, Expo, API integrations, scalable architecture, and AI-powered features**, and I work across the full stack — frontend, backend services, third-party integrations, AI features, testing, and App Store/Play Store deployment — so I can own a product end-to-end rather than just one layer of it.
 
 I enjoy working with **founders, startups, and engineering teams** that value ownership, clear communication, quality engineering, and shipping real products.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat-square&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Job_Success-100%25-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apps_Shipped-50%2B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-5%2B_Years-orange?style=flat-square" />
+</p>
 
 ---
 
@@ -75,8 +82,11 @@ I enjoy working with **founders, startups, and engineering teams** that value ow
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 **AI / LLM**
 
@@ -106,6 +116,7 @@ I enjoy working with **founders, startups, and engineering teams** that value ow
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/fastlane-%23283A42.svg?style=for-the-badge&logo=fastlane&logoColor=%23B4A9FF)
+![EAS Build](https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
 **Tools & Platforms**
@@ -120,6 +131,29 @@ I enjoy working with **founders, startups, and engineering teams** that value ow
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 ---
+
+### 🌟 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[Floty.ai](https://floty.ai/)** | Fleet management platform — real-time GPS tracking, AI dispatch system, used by 500+ companies (25% documented fuel savings) |
+| **Rise** | Offline-first productivity app for iOS & Android |
+| **Jeyad** | Arabian horse platform with live auctions, iOS + Android |
+| **Daydew** | Cross-platform mobile application |
+| **Rivetgun.ai** | AI-powered mobile/web product |
+
+---
+
+### 💼 Experience
+
+- **Software Engineer — React Native, SaaS & AI** · Ben-Yosef Al-Siddiqi *(Dec 2025 – Present)*
+- **Senior React Native Developer** · Floty.ai *(Mar 2024 – Oct 2025)*
+- **React Native Developer** · Hasbisoft *(May 2020 – Feb 2024)*
+
+---
+
+
+
 
 
 ---
